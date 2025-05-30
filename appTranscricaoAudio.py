@@ -195,4 +195,4 @@ else:
 
 # Rodapé
 st.markdown("---")
-st.caption("Aplicativo desenvolvido com Whisper da OpenAI e Streamlit | Controles de transcrição implementados")
+st.caption("Aplicativo desenvolvido por Rafael Oliveira, com Whisper da OpenAI e Streamlit | Controles de transcrição implementados")
